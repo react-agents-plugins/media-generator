@@ -1,0 +1,19 @@
+{
+  "name": "media-generator",
+  "version": "0.0.1",
+  "main": "media-generator.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/react-agents-registry/media-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/react-agents-registry/media-generator/issues"
+  },
+  "homepage": "https://github.com/react-agents-registry/media-generator#readme",
+  "description": ""
+}
