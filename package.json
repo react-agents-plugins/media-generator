@@ -1,5 +1,5 @@
 {
-  "name": "media-generator",
+  "name": "@react-agents-plugins/media-generator",
   "version": "0.0.1",
   "main": "media-generator.tsx",
   "scripts": {
